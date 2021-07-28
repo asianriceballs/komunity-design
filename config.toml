@@ -1,7 +1,9 @@
-baseURL = "/"
+baseURL = "https://komunity.design/"
 title = "Komunity Design"
 languageCode = "en-us"
 theme = "themekd"
+googleAnalytics = ""
+relativeurls = true
 
 [menu]
   [[menu.main]]
@@ -52,14 +54,7 @@ theme = "themekd"
   favicon = "favicon-32x32.png"
   site_logo = "logo.png"
   description = "Design as an avenue for social change. A creative and consulting agency that focuses on design thinking and design for social impact."
-  facebook = ""
-  twitter = ""
-  instagram = ""
-  youtube = ""
-  github = ""
-  gitlab = ""
-  linkedin = ""
-  rss = ""
+
 
 [taxonomies]
   category = "categories"
