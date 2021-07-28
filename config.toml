@@ -3,7 +3,7 @@ title = "Komunity Design"
 languageCode = "en-us"
 theme = "themekd"
 googleAnalytics = ""
-relativeurls = true
+canonifyURLs = true
 
 [menu]
   [[menu.main]]
