@@ -1103,14 +1103,17 @@ ul.contactmail li a {
 
 @media only screen and (min-width: 1921px) { 
 	.img-zigzag svg.two-zigzag-svg { top: -135px;}
+	.content-hero { min-height: 90vh;}
 }
 
 @media only screen and (max-width: 1920px) { 
 	.img-zigzag svg.two-zigzag-svg { top: -115px;}
+	.content-hero { min-height: 90vh;}
 }
 
 @media only screen and (max-width: 1440px) { 
 	.img-zigzag svg.two-zigzag-svg { top: -95px;}
+	.content-hero { min-height: 75vh;}
 }
 
 @media only screen and (max-width: 1025px) { 
