@@ -1,0 +1,67 @@
+baseURL = "komunity.design/"
+title = "Komunity Design"
+languageCode = "en-us"
+theme = "themekd"
+
+[menu]
+  [[menu.main]]
+    name = "Chronicles"
+    url = "/chronicles/"
+    weight = 1
+  [[menu.main]]
+    name = "Services"
+    url = "/#services"
+    weight = 2
+  [[menu.main]]
+    name = "Collaborate"
+    url = "/collaborate/"
+    weight = 3
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 4
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 5
+
+[[menu.footer1]]
+  name = "Chronicles"
+  url = "/chronicles/"
+  weight = 1
+[[menu.footer1]]
+  name = "Services"
+  url = "//#services"
+  weight = 2
+[[menu.footer1]]
+  name = "Collaborate"
+  url = "/collaborate/"
+  weight = 3
+
+[[menu.footer2]]
+  name = "About"
+  url = "/about/"
+  weight = 1
+[[menu.footer2]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 2
+  
+
+[params]
+  favicon = "favicon-32x32.png"
+  site_logo = "logo.png"
+  description = "Design as an avenue for social change. A creative and consulting agency that focuses on design thinking and design for social impact."
+  facebook = ""
+  twitter = ""
+  instagram = ""
+  youtube = ""
+  github = ""
+  gitlab = ""
+  linkedin = ""
+  rss = ""
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+

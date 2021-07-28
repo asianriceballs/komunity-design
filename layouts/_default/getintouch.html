@@ -1,0 +1,68 @@
+{{ define "main" }}
+<div class="content-getintouch">
+    <div class="container">
+        <div class="row row-marg">
+            <div class="col-12 page-title">
+                <h1>{{ .Title }}</h1>
+            </div>
+            <form name="contact" class="contact-form width-normal" id="getintouch" action="/thank-you/" method="POST" data-netlify="true" data-netlify-honeypot="true">
+                <input type="hidden" name="form-name" value="contact" />
+                <div class="col-12 col-md-5 form-col form-col1 nopad">
+                    <!-- Text input-->
+                    <div class="form-group">
+                        <label class="col-md-12 control-label" for="Name">Name</label>
+                        <div class="col-md-12">
+                            <input id="contact-form-name" name="Name" type="text" placeholder="eg. John Snow" class="form-control input-md" required="" autocomplete="off">
+                        </div>
+                    </div>
+                    <!-- Text input-->
+                    <div class="form-group">
+                        <label class="col-md-12 control-label" for="Email address">Email address</label>
+                        <div class="col-md-12">
+                            <input id="contact-form-email" name="Email" type="email" placeholder="eg. john@snow.com" class="form-control input-md" required="" autocomplete="off">
+                        </div>
+                    </div>
+                    <!-- Text input-->
+                    <div class="form-group">
+                        <label class="col-md-12 control-label" for="Phone">Phone number</label>
+                        <div class="col-md-12">
+                            <input id="contact-form-subject" name="Phone" type="text" placeholder="eg. 65 811 7777777" class="form-control input-md" required="" autocomplete="off">
+                        </div>
+                    </div>
+                    <!-- checbox-->
+                    <fieldset>
+                        <legend>Preferred method of contact</legend>
+                        <div class="custom-control custom-checkbox">
+                            <label for="email1" class="">
+                                <input type="checkbox" id="viaemail" name="method" value="email" class="form-control custom-control-input" />
+                                Email
+                            </label>
+
+                            <label for="phone1" class="">
+                                <input type="checkbox" id="viaphone" name="method" value="phone" class="form-control custom-control-input">
+                                Phone
+                            </label>
+                        </div>
+                    </fieldset>
+                </div>
+                <div class="col-12 col-md-5 offset-md-1 form-col form-col2 nopad">
+                    <!-- Textarea -->
+                    <div class="form-group">
+                        <label class="col-md-12 control-label" for="">Message</label>
+                        <textarea class="form-control" id="contact-form-message" name="Message" placeholder="eg. Say hello" rows="8"></textarea>
+                    </div>
+                    <div class="d-none">
+                        <label id="contact-form-bot-label"
+                            >Don't fill this out if you're human: <input name="bot-field" aria-labelledby="contact-form-bot-label"
+                        /></label>
+                    </div>
+                    <!-- Button -->
+                    <div class="form-group">
+                        <button type="submit" value="Submit" id="Form-submit">Submit</button>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+{{ end }}

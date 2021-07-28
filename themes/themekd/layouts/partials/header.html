@@ -1,0 +1,29 @@
+<div id="nav-border">
+    <nav id="nav" class="nav navbar nopad fixed-top" role="navigation">
+        <div class="container">
+            <div class="col-6 col-md-4 navdiv-logo">
+                <a href="{{ .Site.Home.RelPermalink }}" class="nav-logo navbar-brand">
+                  {{ with .Site.Params.site_logo }}
+                    <img src="{{ . }}" class="logo" alt="{{ $.Site.Title }}" />
+                  {{ else }}
+                    {{ .Site.Title }}
+                  {{ end }}
+                </a>
+            </div>  
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbar-collapse" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon icon-bar top-bar"></span>
+                <span class="navbar-toggler-icon icon-bar middle-bar"></span>
+                <span class="navbar-toggler-icon icon-bar bottom-bar"></span>
+            </button>             
+            <div class="navbar-collapse collapse col-12 col-md-8 nopad-right" id="navbar">
+                <ul class="navbar-nav">
+                    {{ range .Site.Menus.main }}
+                    <li class="nav-item"><a class="nav-link" href="{{ .URL }}" title="{{ .Name }}">
+                    {{ .Name }}
+                    </a></li>
+                    {{ end }}
+                </ul>
+            </div>                     
+        </div>
+    </nav>
+</div>

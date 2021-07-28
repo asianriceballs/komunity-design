@@ -1,0 +1,41 @@
+<div class="prelv">
+    <div class="container">
+        <div class="img-footerplant">
+            <svg xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" viewBox="0 0 71.67 367.67" class="plant-svg"><path class="cls-1" d="M45 362.74c-12.71-27.51 11.16-42.86 18.89-66.6C74.35 264.06 50.58 244 42.13 215.36c-9.92-33.62 22.75-48 22.82-79.1 0.08-34.57-8-28-20.86-70.65C35.47 37.12 47.39 29.73 58 4.85" /><path class="cls-1" d="M9.32 362.74c-12.71-27.51 11.16-42.86 18.89-66.6C38.65 264.06 14.88 244 6.43 215.36c-9.92-33.62 22.75-48 22.82-79.1 0.08-34.57-8-28-20.86-70.65-8.62-28.5 3.31-35.89 13.89-60.77" /></svg>
+        </div>
+    </div>
+    <div class="img-footerimg">
+        <svg xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" viewBox="0 0 1920 133.83" class="footer-svg"><path class="cls-1" d="M2031.41 31.85C1930.79 45.6 1874.3 19 1787.28 10.15c-117.61-11.94-190.8 14.14-295.56 23.16-123 10.59-176-25.75-289.94-26.2-126.6-0.5-102.57 8.49-258.49 22.26C839 38.57 811.79 25.28 720.55 13.27 602.34-2.29 539.18 11.1 431.78 24.33 303.9 40.08 244.91 4.91 130.5 3.56 8.91 2.11-38.35 23.29-144.81 30.17V397.35H2031.38Z" /><path class="cls-2" d="M1775.55 71.31c-112.43 11.87-166.88-13-263.54-16.08-97.31-5.66-162.17 12.91-252.68 19.59-113 8.33-161.63-20.27-266.25-20.63-116.26-0.39-94.19 6.68-237.37 17.52C660 79 635 68.5 551.18 59 442.63 46.79 384.64 57.34 286 67.75 168.59 80.15 114.42 52.46 9.35 51.39c-111.65-1.14-155 15.54-252.81 21V361.43H1246.09V365h793.48l1.16-302.39C1932.18 50.34 1874.18 60.89 1775.55 71.31Z" /><rect class="cls-3" x="-97.84" y="129.5" width="2173.39" height="236.99" /></svg>
+    </div>
+</div>
+<footer class="footer">
+    <div class="container">
+        <div class="row row-marg">
+            <div class="col-12 col-md-3 footerlinks">
+                <ul class="footerul">
+                {{ range .Site.Menus.footer1 }}
+                    <li><a href="{{ .URL }}" class="">{{ .Name }}</a></li>
+                {{ end }}
+                </ul>
+            </div>
+            <div class="col-12 col-md-3 footerlinks">
+                <ul class="footerul">
+                {{ range .Site.Menus.footer2 }}
+                    <li><a href="{{ .URL }}" class="">{{ .Name }}</a></li>
+                {{ end }}
+                </ul>
+            </div>
+            <div class="col-12 col-md-3 footerlinks">
+                <ul class="footermail">
+                    <li><a href="mailto:hello@komunity.design">hello@komunity.design</a></li>
+                    <li><a href="mailto:collaborate@komunity.design">collaborate@komunity.design</a></li>
+                </ul>
+            </div>
+            <div class="col-12 col-md-3 footeraddress">
+            </div>
+            <div class="col-12">
+                <p class="copyright text-right"> &copy; Komunity Design {{ now.Format "2006"}}</p>
+            </div>
+        </div>
+    </div>
+</footer>

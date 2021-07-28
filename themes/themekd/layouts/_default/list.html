@@ -1,0 +1,57 @@
+{{ define "main" }}
+<div class="content-blog">
+    <div class="prelv">
+        <div class="container">
+            <div class="row row-marg page-topper">
+                <div class="col-12 page-title">
+                    <h1>{{ .Title }}</h1>
+                </div>
+                <div class="col-12 col-md-12 title-div">
+                    <h2>Designing with, not for</h2>
+                </div>
+                <div class="col-12 text-div">
+                    <div class="col-12 col-md-5">
+                        <p>Our projects are not defined as “design for clients,” but rather “solutions for people.” Giving partners and users a stake in the process by making them co-designers. Bring them into the design process from the start.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="img-otherwhitewav">
+            <svg xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" viewBox="0 0 368.67 72.33" class="wave-white-svg"><path class="cls-1" d="M363.53 25.67C336 38.38 320.67 14.51 296.93 6.78c-32.08-10.44-52.14 13.33-80.77 21.78-33.62 9.92-48-22.75-79.1-22.82-34.57-0.08-28 8-70.65 20.86C37.92 35.22 30.52 23.3 5.64 12.71-26.59-1-43.87 11.29-73.24 23.55c-35 14.6-51-17-82.21-17.89-33.2-0.95-46.16 18.32-75.25 24.85" /><path class="cls-1" d="M363.53 61.37C336 74.08 320.67 50.21 296.93 42.48 264.85 32 244.79 55.81 216.16 64.26c-33.62 9.92-48-22.75-79.1-22.82-34.57-0.08-28 8-70.65 20.86C37.92 70.93 30.52 59 5.64 48.42-26.59 34.71-43.87 47-73.24 59.25c-35 14.6-51-17-82.21-17.89-33.2-0.95-46.16 18.32-75.25 24.85" /></svg>
+        </div>
+    </div>
+    <div class="prelv">
+        <div class="container">
+            <div class="row row-marg row-posts">
+                {{ range (.Site.GetPage "section" "chronicles").Pages }}
+                <div class="col-12 col-md-6 nopad post-preview">
+                    <div class="col-12 post-imgdiv">
+                        <a class="preview-img" href="{{ .Permalink }}">
+                            <div class="col-12">
+                                <div class="post-previewimg" style="background-image: url('{{ .Params.image }}');"></div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-12 post-txt-div">
+                        <div class="col-12 tags-div">
+                            {{ with .Params.tags }}
+                                {{ range . }}
+                                    {{ $href := print (absURL "tags/") (urlize .) }}
+                                    <a class="tags font1" href="{{ $href }}">{{ . }}</a>
+                                {{ end }}
+                            {{ end }}
+                        </div>
+                        <div class="col-12 post-title-div">
+                            <a class="preview-title font1" href="{{ .Permalink }}">{{ .Title }}</a>
+                        </div>
+                    </div>
+                </div>           
+                {{ end }}
+            </div>
+        </div>
+    </div>
+    <div class="prelv">
+        {{ partial "contact1.html" . }}
+    </div>
+</div>
+{{ end }}

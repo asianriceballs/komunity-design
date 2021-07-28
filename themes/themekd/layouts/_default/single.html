@@ -1,0 +1,37 @@
+{{ define "main" }}
+<div class="post-single">
+	<div class="container">
+		<div class="row row-marg page-topper">
+			<div class="content-block-single col-12 col-md-12">
+	            <div class="col-12 nopad page-title">
+	                <h1><a href="/chronicles/">Chronicles</a> / {{ .Title }}</h1>
+	            </div>
+	            <div class="col-12 nopad tags-div">
+	                {{ with .Params.tags }}
+	                    {{ range . }}
+	                        {{ $href := print (absURL "tags/") (urlize .) }}
+	                        <a class="tags font1" href="{{ $href }}">{{ . }}</a>
+	                    {{ end }}
+	                {{ end }}
+	            </div>
+	            <div class="blog-hero col-12" {{ with .Params.heroimage }}
+				    style="background: url('{{ . }}') center;background-size:cover;" {{ end }}>
+				</div>
+	        </div>
+	    </div>
+	    <div class="row row-marg page-post">
+	    	<div class="row row-marg page-post">
+	            {{ $cols := split .RawContent "||" }}
+	            {{ range $cols }}
+	            <div class="content-column col-12 col-lg-6">
+	                {{ . | markdownify }}
+	            </div>
+	            {{ end }}       
+	        </div>
+		</div>
+	</div>
+	<div class="prelv">
+        {{ partial "contact1.html" . }}
+    </div>
+</div>
+{{ end }}
