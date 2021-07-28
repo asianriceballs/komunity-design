@@ -2,7 +2,7 @@ baseURL = "https://komunity.design/"
 title = "Komunity Design"
 languageCode = "en-us"
 theme = "themekd"
-googleAnalytics = ""
+googleAnalytics = "G-DJZCW21407"
 canonifyURLs = true
 
 [menu]
