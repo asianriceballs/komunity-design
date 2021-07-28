@@ -1106,7 +1106,11 @@ ul.contactmail li a {
 }
 
 @media only screen and (max-width: 1920px) { 
-	.img-zigzag svg.two-zigzag-svg { top: -100px;}
+	.img-zigzag svg.two-zigzag-svg { top: -115px;}
+}
+
+@media only screen and (max-width: 1140px) { 
+	.img-zigzag svg.two-zigzag-svg { top: -95px;}
 }
 
 @media only screen and (max-width: 1025px) { 
