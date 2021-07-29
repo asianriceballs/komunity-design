@@ -60,3 +60,6 @@ canonifyURLs = true
   category = "categories"
   tag = "tags"
 
+[markup]
+  [markup.goldmark.renderer]
+      unsafe = true
