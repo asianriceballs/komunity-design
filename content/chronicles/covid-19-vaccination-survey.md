@@ -39,6 +39,8 @@ from participants in Groups 2 and 3.
 Participants from Group 1 (Pro-vaccination) were also asked to predict the reasons 
 others might be hesitant to take the vaccine.
 
+![covid-19 vaccination bottles](/images/posts/c19-daniel-schludi-unsplash.jpg "Photo by Daniel Schludi on Unsplash")
+
 #### Results
 
 This survey was conducted to uncover possible reasons people in our community are hesitant towards getting the COVID-19 Vaccine. The data that we collected indicated overwhelming positive reception towards receiving the vaccine both in Malaysia and in Singapore. For the Malaysian survey 88.9% replied that they will get vaccinated when offered to them when responding to the survey English and Malay. For the Singaporean survey 83.3% replied that they will get vaccinated when offered to them. 
@@ -69,6 +71,10 @@ Launching a campaign that mimicked virtue signaling from those who intend to be 
 
 ![covid-19 illustration](/images/posts/c19-covid-large.jpg)
 
+![covid-19 vaccination](/images/posts/c19-cdc-unsplash.jpg "Photo by CDC on Unsplash")
+
+
+
 #### Distribution
 
 **Location**
@@ -87,8 +93,8 @@ The English version of the survey started collecting data from 11 March and the 
 Initial results from the English version of the survey contradicted the national statistics of those registered for the vaccination. We then initiated a Malay version of the survey to capture a wider audience. 
 
 
-![covid-19 vaccination bottles](/images/posts/c19-daniel-schludi-unsplash.jpg "Photo by Daniel Schludi on Unsplash")
 
-![covid-19 vaccination](/images/posts/c19-cdc-unsplash.jpg "Photo by CDC on Unsplash")
+
+
 
 
