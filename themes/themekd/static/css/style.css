@@ -233,7 +233,7 @@ a:hover {
 }
 
 .blog-hero {
-	height: 420px;
+	height: 450px;
 }
 
 .content-block-single .tags-div {
@@ -257,11 +257,17 @@ a:hover {
 
 .post-single .page-post h4 {
 	font-size: 1.4rem;
+	margin-top: 40px;
 }
 
 .post-single .page-post img {
 	max-width: 100%;
-    height: auto;
+	height: auto;
+	margin: 10px auto;
+}
+
+.post-single .page-post a {
+	padding-bottom: .2rem;
 }
 
 
@@ -1157,6 +1163,7 @@ ul.contactmail li a {
 	.navbar-collapse { display: block; padding-left: 0;}
 	.navbar-collapse ul.navbar-nav { display: block; float: none;}
 	.navbar-collapse ul.navbar-nav li.nav-item { display:block; width: 100%; text-align: center; margin: 10px 0; border-bottom: 1px solid #DBDBDA;}
+	.navbar-collapse ul.navbar-nav li.nav-item:focus, .navbar-collapse ul.navbar-nav li.nav-item:hover {border-bottom: 1px solid #FFFFFF;}
 	.navbar-collapse ul.navbar-nav li.nav-item:last-child { margin-bottom: 0;}
 	.navbar-collapse ul.navbar-nav li.nav-item a {width: 100%;}
 	.footer .footerlinks { padding-left: 20px;}
