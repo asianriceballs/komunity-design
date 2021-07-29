@@ -78,8 +78,6 @@ Launching a campaign that mimicked virtue signaling from those who intend to be 
 Malaysia 
 Geolocation was not explicitly collected but some data is known to come from the states of Johor, Penang, Kuala Lumpur and Selangor.
 
-Singapore
-Data for Singapore was also collected but not included in this document.
 
 **Language**
 
