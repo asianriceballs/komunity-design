@@ -17,8 +17,6 @@ In the past, vaccination acceptance has relied on the trust that people have in 
 
 As part of our efforts to reach out to the community, we created an [informal online survey](/https://vaccination.komunity.design/) on our website to try to uncover possible reasons people in our community are hesitant towards getting the COVID-19 Vaccine.
 
-We hoped to understand the different positions people held on the COVID-19 vaccination.
-
 This survey is part of our research to uncover possible reasons people in our community are hesitant towards getting the COVID-19 Vaccine. We were curious why the registration rates for the vaccination were relatively low in Malaysia. We hope that our findings can provide insight to individuals and caregivers to better communicate the importance of vaccination.
 
 The initial question of the survey serves as a screening mechanism to categorize 
@@ -39,7 +37,7 @@ from participants in Groups 2 and 3.
 Participants from Group 1 (Pro-vaccination) were also asked to predict the reasons 
 others might be hesitant to take the vaccine.
 
-![covid-19 vaccination bottles](/images/posts/c19-daniel-schludi-unsplash.jpg "Photo by Daniel Schludi on Unsplash")
+![covid-19 vaccination](/images/posts/c19-cdc-unsplash.jpg "Photo by CDC on Unsplash")
 
 #### Results
 
@@ -71,9 +69,7 @@ Launching a campaign that mimicked virtue signaling from those who intend to be 
 
 ![covid-19 illustration](/images/posts/c19-covid-large.jpg)
 
-![covid-19 vaccination](/images/posts/c19-cdc-unsplash.jpg "Photo by CDC on Unsplash")
-
-
+# We hoped to understand the different positions people held on the COVID-19 vaccination.
 
 #### Distribution
 
@@ -92,7 +88,7 @@ The English version of the survey started collecting data from 11 March and the 
 
 Initial results from the English version of the survey contradicted the national statistics of those registered for the vaccination. We then initiated a Malay version of the survey to capture a wider audience. 
 
-
+![covid-19 vaccination bottles](/images/posts/c19-daniel-schludi-unsplash.jpg "Photo by Daniel Schludi on Unsplash")
 
 
 
