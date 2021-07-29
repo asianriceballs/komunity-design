@@ -25,14 +25,12 @@ The initial question of the survey serves as a screening mechanism to categorize
 the participants into **4 different groups**:
 
 
-{{% table %}}
-|                                                 |                    |
-|-------------------------------------------------|--------------------|
-| I will get vaccinated when it is offered to me. | (Pro-vaccination)  |
-| I do not intend to get vaccinated.			  | (Anti-Vaccination) |
-| I am hesitant to get myself vaccinated.		  | (Hesitant)         |
-| I don't really care about the vaccination.	  | (Apathy)           |
-{{% /table %}}
+
+| 1. I will get vaccinated when it is offered to me. 	| (Pro-vaccination)  |
+| 2. I do not intend to get vaccinated.			  		| (Anti-Vaccination) |
+| 3. I am hesitant to get myself vaccinated.		  	| (Hesitant)         |
+| 4. I don't really care about the vaccination.	  		| (Apathy)           |
+
 
 As the primary objective of the survey was to discover the possible reasons people 
 are hesitant to receive the vaccine, we were most interested in the data collected 
