@@ -846,7 +846,8 @@ a.nav-link:hover {
     opacity: 0;
   }
   50% {
-    transform: translateY(150px);
+    transform: translateY(170px);
+    opacity: 1;
   }
 }
 
@@ -863,7 +864,7 @@ a.nav-link:hover {
     transform: translateY(0);
   }
   50% {
-    transform: translateY(100px);
+    transform: translateY(120px);
   }
 }
 
