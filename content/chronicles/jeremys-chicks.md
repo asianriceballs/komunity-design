@@ -37,9 +37,9 @@ Our work was limited to several key alterations to provide consistency and impro
 
 #### Community
 
-As part of our efforts to engage the community, we looked into possible ways that Jeremy's Chicks could engage the community in a meaningful way. We devised a payment scheme where several that waived the cost of key services if they were able to give back to the community. This sparked a campaign where each delivery partner delivering food for them was provided a meal for each order that was made. 
+As part of our efforts to engage the community, we looked into possible ways that Jeremy's Chicks could engage the community in a meaningful way. We devised a payment scheme where several that waived the cost of key services if they were able to give back to the community. This sparked a [campaign](/https://www.instagram.com/p/CGl2tzdpO1d/) where each delivery partner delivering food for them was provided a meal for each order that was made. 
 
-Another scheme had them show support for a local food stall that came under some hard times due to lockdown restrictions. Jeremy’s Chicks placed a large order from them and then matched the same order and donated the food to a local orphanage.
+Another scheme had them show support for a [local food stall](/https://www.instagram.com/p/CG8_n3eJR17/) that came under some hard times due to lockdown restrictions. Jeremy’s Chicks placed a large order from them and then matched the same order and donated the food to a [local orphanage](/https://www.instagram.com/p/CG_hPdPpa2G/).
 
 ||
 
@@ -49,7 +49,9 @@ Another scheme had them show support for a local food stall that came under some
 
 ![jeremys chicks Chuan Kee Chicken Rice one of the best chicken rice stalls in Subang Jaya](/images/posts/jc-hawker-seller.jpg)
 
-Unfortunately the initiatives seems like a one off event and  there was no further information or follow through for any of the initiatives .The impact to their selected beneficiaries could not be accurately accessed. A more through needs analysis study could have been but in place to optimize the existing resources for maximum impact.
+**Update**
+
+Jeremy's Chicks had a change in managment mid 2021. The initiatives were not carried forward with the new team and there has been no further information or follow through for any of the initiatives. The impact to their selected beneficiaries in the past could not be accurately accessed. A more through needs analysis study could have been but in place to optimize the existing resources for maximum impact.
 
 ![jeremys chicks Lighthouse Children Welfare Home Association](/images/posts/jc-children2.jpg)
 
