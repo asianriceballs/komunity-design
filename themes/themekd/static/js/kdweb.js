@@ -1,8 +1,8 @@
 $(".post-preview > .post-imgdiv").mouseover(function() {
-    $(this).addClass("thispost");
+    $(this).parent().addClass("thispost");
 })
 .mouseout(function() {
-    $(this).removeClass("thispost");
+    $(this).parent().removeClass("thispost");
 });
 
 
