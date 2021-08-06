@@ -1,3 +1,10 @@
+$(".post-preview > .post-imgdiv").mouseover(function() {
+    $(this).addClass("thispost");
+})
+.mouseout(function() {
+    $(this).removeClass("thispost");
+});
+
 
 /* navbar auto hide scrolling */
 
