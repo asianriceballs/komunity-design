@@ -7,6 +7,7 @@ categories:
 image: /images/posts/c19-vaccine-img.jpg
 heroimage: /images/posts/c19-fusion-medical-animation-unsplash.jpg
 featured: true
+description: "Survey results to uncover reasons people are hesitant towards COVID-19 Vaccine"
 ---
 
 #### Motivation
