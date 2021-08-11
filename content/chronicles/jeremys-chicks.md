@@ -7,6 +7,7 @@ categories:
 image: /images/posts/jc-children.jpg
 heroimage: /images/posts/jc-children-hero.jpg
 featured: true
+description: "Website development for Jeremy’s Chicks delivery kitchen chicken rice in Kuala Lumpur"
 ---
 
 #### Background
