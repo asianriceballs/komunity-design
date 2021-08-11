@@ -1,4 +1,4 @@
 ---
 title: "Collaborate"
-description: "Komunity Design is a creative consulting agency that approaches design in a social, inclusive and participatory manner."
+description: "Komunity Design believes that by working together with people and institutions around, a positive feedback loop is created which in turn generates a positive social change."
 ---
