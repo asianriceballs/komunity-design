@@ -53,12 +53,13 @@ canonifyURLs = true
 [params]
   favicon = "favicon-32x32.png"
   site_logo = "logo.png"
-  description = "Design as an avenue for social change. A creative and consulting agency that focuses on design thinking and design for social impact."
+  description = "Komunity Design is a creative and consulting agency that focuses on design thinking and design for social impact. We see design as an avenue for social change."
 
 
 [taxonomies]
   category = "categories"
   tag = "tags"
+
 
 [markup]
   [markup.goldmark.renderer]
