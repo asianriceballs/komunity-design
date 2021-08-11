@@ -1,4 +1,4 @@
 ---
 title: "Tell us what's on your mind"
-description: "Komunity Design is a creative consulting agency that approaches design in a social, inclusive and participatory manner."
+description: "At Komunity Design we would love to hear from you. We ask, listen and develop in solidarity."
 ---
