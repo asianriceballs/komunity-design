@@ -5,6 +5,13 @@ theme = "themekd"
 googleAnalytics = "G-DJZCW21407"
 canonifyURLs = true
 
+
+[params]
+  favicon = "favicon-32x32.png"
+  site_logo = "logo.png"
+  description = "Komunity Design is a creative and consulting agency that focuses on design thinking and design for social impact. We see design as an avenue for social change."
+
+
 [menu]
   [[menu.main]]
     name = "Chronicles"
@@ -50,11 +57,6 @@ canonifyURLs = true
   weight = 2
   
 
-[params]
-  favicon = "favicon-32x32.png"
-  site_logo = "logo.png"
-  description = "Komunity Design is a creative and consulting agency that focuses on design thinking and design for social impact. We see design as an avenue for social change."
-
 
 [taxonomies]
   category = "categories"
@@ -62,5 +64,6 @@ canonifyURLs = true
 
 
 [markup]
-  [markup.goldmark.renderer]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
       unsafe = true
