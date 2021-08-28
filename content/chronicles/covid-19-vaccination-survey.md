@@ -49,11 +49,13 @@ This survey was conducted to uncover possible reasons people in our community ar
 In Malaysia, even though this positive result was not consistent with the registration rates published by the Jabatan Khas Jaminan Akses Bekalan COVID-19 (JKJAV) as of April 2020, it did not affect the data collected about the reasons for those who are hesitant to take the vaccine.
 
 
+![covid-19 inforgraph of people who believe that the vaccines were developed too quickly](/images/posts/c19-info-covid-vaccine.jpg)
+
+
 **Institutional mistrust**
 
 In Malaysia we observed that there was a mild correlation between trust in information provided by the government and the receptivity of the vaccine. This mistrust could come from a combination of psychological reactance towards the government’s efforts coupled with a perception of local political instability. While in Singapore the responses for trust in information provided by the government were relatively high.
 
-![covid-19 inforgraph of people who believe that the vaccines were developed too quickly](/images/posts/c19-info-covid-vaccine.jpg)
 
 80% believe that the vaccines were developed too quickly. Even though the timeline for the vaccine creation was shortened, the vaccines still went through multiple phases of testing for safety and efficacy. This suggests mistrust and lack of understanding of the vaccine creation process as well as a mistrust in the phacumential companies that create the vaccine.
 
@@ -65,20 +67,19 @@ Many who were hesitant and did not intend to get vaccinated believe that the neg
 No participants from the hesitant and anti-vaccine group cited blood clots as a side effect that could be a cause of concern. This is despite the fact that blood clots are a significant but rare side effect. This omission could indicate a bias that allowed them to ignore new information even though it supports their initial position.
 
 
-![covid-19 inforgraph of people who are still willing to take the vaccine knowing the side effects](/images/posts/c19-info-despite-side-effects.jpg)
-
 **Virtue signalling**
 
 Since we had richer data on participants willing to receive the vaccine, we felt that it was also necessary to observe the trends that these individuals had. Despite knowing the risk of side effects 35.9% indicated that they would like to protect themselves and others from the virus. 20.7% cited that taking the vaccine is a vital step to stop the pandemic and build herd immunity in the community. This indicated virtue signalling where ensuring a healthier community was seen as a positive and desirable virtue.
 
 Launching a campaign that mimicked virtue signaling from those who intend to be vaccinated might entice those who are hesitant to vaccinate to change their minds at a later date.
 
-![covid-19 poster ad campaign covid-19 vaccination](/images/posts/c19-poster-mock1.jpg)
 
 
 ||
 
 ![covid-19 illustration](/images/posts/c19-covid-large.jpg)
+
+![covid-19 inforgraph of people who will get vaccinated when offered](/images/posts/c19-info-vaccinate.jpg)
 
 # We hoped to understand the different positions people held on the COVID-19 vaccination.
 
@@ -97,7 +98,11 @@ The English version of the survey started collecting data from 11 March and the 
 
 Initial results from the English version of the survey contradicted the national statistics of those registered for the vaccination. We then initiated a Malay version of the survey to capture a wider audience. 
 
-![covid-19 inforgraph of people who will get vaccinated when offered](/images/posts/c19-info-vaccinate.jpg)
+
+![covid-19 inforgraph of people who are still willing to take the vaccine knowing the side effects](/images/posts/c19-info-despite-side-effects.jpg)
+
+
+![covid-19 poster ad campaign covid-19 vaccination](/images/posts/c19-poster-mock1.jpg)
 
 ![covid-19 poster ad campaign covid-19 vaccination](/images/posts/c19-poster-mock3.jpg)
 
@@ -105,6 +110,8 @@ Initial results from the English version of the survey contradicted the national
 
 
 For a full report [contact us](/contact). 
+
+![covid-19 poster ad campaign covid-19 vaccination](/images/posts/c19-poster-mock4.jpg)
 
 
 
