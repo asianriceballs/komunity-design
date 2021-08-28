@@ -52,7 +52,7 @@ Another scheme had them show support for a [local food stall](/https://www.insta
 
 **Update**
 
-Jeremy's Chicks had a change in managment mid 2021. The initiatives were not carried forward with the new team and there has been no further information or follow through for any of the initiatives. The impact to their selected beneficiaries in the past could not be accurately accessed. A more through needs analysis study could have been but in place to optimize the existing resources for maximum impact.
+As of June 2021 Jeremy's Chicks had a change in managment. The initiatives were not carried forward with the new team and there has been no further information or follow through for any of the initiatives. The impact to their selected beneficiaries in the past could not be accurately accessed. A more through needs analysis study could have been but in place to optimize the existing resources for maximum impact.
 
 ![jeremys chicks Lighthouse Children Welfare Home Association](/images/posts/jc-children2.jpg)
 
