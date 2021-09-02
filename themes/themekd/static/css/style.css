@@ -195,6 +195,7 @@ a:hover {
   	transition: .5s ease;
   	background-color: rgba(177,149,86,0.5);
   	overflow:hidden;
+  	z-index: 1;
 }
 
 .row-tax .post-txt-div {
