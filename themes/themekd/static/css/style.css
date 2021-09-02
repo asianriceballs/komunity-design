@@ -170,7 +170,8 @@ a:hover {
   	color: #158B7E;
 }
 
-.post-imgdiv a:hover .post-previewimg {
+.post-imgdiv a:hover .post-previewimg,
+.post-preview.thispost .post-imgdiv .post-previewimg {
 	opacity: .7;
 }
 
@@ -181,7 +182,8 @@ a:hover {
     background-size: cover;
 }
 
-.ovrlyeffct:hover {
+.ovrlyeffct:hover,
+.post-preview.thispost .post-imgdiv .ovrlyeffct {
 	cursor: pointer;
 	opacity: .5;
 }
