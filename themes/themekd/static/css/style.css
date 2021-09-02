@@ -167,6 +167,7 @@ a:hover {
   	background-size: auto 4px;
  	background-repeat: repeat-x;
   	text-decoration: none;
+  	color: #158B7E;
 }
 
 .post-imgdiv a:hover .post-previewimg {
