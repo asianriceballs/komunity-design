@@ -5,6 +5,13 @@ $(".post-preview > .post-imgdiv").mouseover(function() {
     $(this).parent().removeClass("thispost");
 });
 
+$(".post-preview > .post-txt-div .post-title-div").mouseover(function() {
+    $(this).parent().addClass("thispost");
+})
+.mouseout(function() {
+    $(this).parent().removeClass("thispost");
+});
+
 
 /* navbar auto hide scrolling */
 
