@@ -20,6 +20,9 @@ As part of our efforts to reach out to the community, we created an [informal on
 
 This survey is part of our research to uncover possible reasons people in our community are hesitant towards getting the COVID-19 Vaccine. We were curious why the registration rates for the vaccination were relatively low in Malaysia. We hope that our findings can provide insight to individuals and caregivers to better communicate the importance of vaccination.
 
+<br />
+<br />
+
 ![covid-19 vaccination](/images/posts/c19-cdc-unsplash.jpg "Photo by CDC on Unsplash")
 
 The initial question of the survey serves as a screening mechanism to categorize 
@@ -79,7 +82,24 @@ Launching a campaign that mimicked virtue signaling from those who intend to be 
 
 ![covid-19 illustration](/images/posts/c19-covid-large.jpg)
 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
 ![covid-19 inforgraph of people who will get vaccinated when offered](/images/posts/c19-info-vaccinate.jpg)
+
+<br />
+<br />
+<br />
+<br />
+<br />
 
 # We hoped to understand the different positions people held on the COVID-19 vaccination.
 
