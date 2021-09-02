@@ -1220,6 +1220,7 @@ ul.contactmail li a {
 
 	.content-hero h1, .post-single .page-post h1 { font-size: 3.4rem; padding: 70px 0;}
 	.post-single .page-post img { margin: 20px auto;}
+	.page-post .content-column br {display: none;}
 	.custom-checkbox label input { width: 25%;}
 
 	.row-posts .post-preview,
