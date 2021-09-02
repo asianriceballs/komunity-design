@@ -170,7 +170,7 @@ a:hover {
 }
 
 .post-imgdiv a:hover .post-previewimg {
-	opacity: .8;
+	opacity: .5;
 }
 
 .post-previewimg {
@@ -178,6 +178,23 @@ a:hover {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+}
+
+.ovrlyeffct:hover {
+	cursor: pointer;
+	opacity: .7;
+}
+
+.ovrlyeffct {
+	position: absolute;
+  	top: 0;
+  	bottom: 0;
+  	left: 0;
+  	right: 0;
+  	opacity: 0;
+  	transition: .5s ease;
+  	background-color: rgba(177,149,86,0.7);
+  	overflow:hidden;
 }
 
 .row-tax .post-txt-div {
@@ -264,7 +281,7 @@ a:hover {
 	font-size: 3.2rem;
 	text-transform: uppercase;
 	color: #727272;
-	padding: 60px 0;
+	padding: 100px 0;
 }
 
 .post-single .page-post h4 {
@@ -275,7 +292,7 @@ a:hover {
 .post-single .page-post img {
 	max-width: 100%;
 	height: auto;
-	margin: 10px auto;
+	margin: 60px auto;
 }
 
 .post-single .page-post a {
@@ -1201,7 +1218,8 @@ ul.contactmail li a {
 	.footerlinks ul li { margin: 20px 0;}
 	.img-footerplant svg.plant-svg { width: 7%; bottom: -120px;}
 
-	.content-hero h1, .post-single .page-post h1 { font-size: 3.4rem;}
+	.content-hero h1, .post-single .page-post h1 { font-size: 3.4rem; padding: 70px 0;}
+	.post-single .page-post img { margin: 20px auto;}
 	.custom-checkbox label input { width: 25%;}
 
 	.row-posts .post-preview,
