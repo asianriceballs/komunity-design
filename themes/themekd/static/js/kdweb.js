@@ -6,10 +6,10 @@ $(".post-preview > .post-imgdiv").mouseover(function() {
 });
 
 $(".post-preview > .post-txt-div .post-title-div").mouseover(function() {
-    $(this).parent().addClass("thispost");
+    $(this).parents('.post-preview').addClass("thispost");
 })
 .mouseout(function() {
-    $(this).parent().removeClass("thispost");
+    $(this).parents('.post-preview').removeClass("thispost");
 });
 
 
