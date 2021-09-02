@@ -2,7 +2,7 @@
 title: "COVID-19 Vaccination Survey"
 date: 2021-07-21T15:09:15+08:00
 draft: false
-tags: ["research"]
+tags: ["research","design"]
 categories:
 image: /images/posts/c19-vaccine-img.jpg
 heroimage: /images/posts/c19-fusion-medical-animation-unsplash.jpg
