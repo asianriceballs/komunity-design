@@ -55,6 +55,10 @@ canonifyURLs = true
   name = "Contact"
   url = "/contact/"
   weight = 2
+[[menu.footer2]]
+  name = "FAQ"
+  url = "/faq/"
+  weight = 3
   
 
 
