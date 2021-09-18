@@ -27,7 +27,7 @@ p {
 	padding-right: 0;
 }
 
-/* general styling */
+/* ====== general styling ====== */
 
 .font1 {font-family: 'Sora', sans-serif;}
 .font2 {font-family: 'Source Sans Pro', sans-serif;}
@@ -86,7 +86,7 @@ a:hover {
 }
 
 .page-title {
-	margin-top: 140px;
+	margin-top: 100px;
 	margin-bottom: 40px;
 }
 
@@ -107,7 +107,7 @@ a:hover {
     bottom: -40px;
 }
 
-/* blog posts general */
+/* ====== blog posts general ====== */
 
 .tags-div {
 	font-size: .9rem;
@@ -304,7 +304,7 @@ a:hover {
 }
 
 
-/* header starts */
+/* ====== header starts ====== */
 
 .navbar-toggler {display: none;}
 
@@ -426,9 +426,9 @@ a.nav-link:hover {
   	text-decoration: none;
 }
 
-/* header ends */
+/* ====== header ends ====== */
 
-/* fooer starts */
+/* ====== fooer starts ====== */
 
 .footer .footerlinks:first-child {
 	padding-left: 20px;
@@ -484,9 +484,9 @@ a.nav-link:hover {
     color: #AEAEAE;
 }
 
-/* footer ends */
+/* ====== footer ends ====== */
 
-/* get in touch contact segments */
+/* ====== get in touch contact segments ====== */
 
 .getintouch-div {
 	margin-top: 220px;
@@ -525,8 +525,8 @@ a.nav-link:hover {
 	color: inherit;
 }
 
-/* get in touch contact segments end */
-/* get in touch page */
+/* ====== get in touch contact segments end ====== */
+/* ====== get in touch page ====== */
 
 .thanku-row1 .text-div {
 	margin-bottom:  60px;
@@ -645,10 +645,10 @@ a.nav-link:hover {
 	height: 100%;
 }
 
-/* get in touch ends */ 
+/* ====== get in touch ends ====== */ 
 
-/* front page starts */
-/* front page images */
+/* ====== front page starts ====== */
+/* ====== front page images ====== */
 
 .hero-img svg.triangles-birds-svg {
 	position: absolute;
@@ -1041,7 +1041,7 @@ a.nav-link:hover {
 	background: none;
 }
 
-/* about page */
+/* ====== about page ====== */
 
 .abthero-img svg.clouds-svg {
 	position: absolute;
@@ -1108,7 +1108,7 @@ a.nav-link:hover {
 	margin-bottom: 20px;
 }
 
-/* collaborate page */
+/* ====== collaborate page ====== */
 
 .collabhero-img svg.full-rainbow-svg {
 	position: absolute;
@@ -1133,7 +1133,7 @@ a.nav-link:hover {
 .pyramid-img .triangle-pyramid-svg .cls-1,.cls-2{stroke-linecap:round;stroke-linejoin:round;}
 .pyramid-img .triangle-pyramid-svg .cls-2{fill:#dbdbda;stroke:#dbdbda;stroke-width:8px;}
 
-/* contact page */
+/* ====== contact page ====== */
 
 ul.contactmail {
 	list-style-type: none;
@@ -1156,7 +1156,68 @@ ul.contactmail li a {
     bottom: 100px;
 }
 
-/* ====== responsive ====== */
+/* ====== faq page ====== */
+
+.img-faqwhitewav svg.wave-white-svg {
+	position: absolute;
+	width: 18%;
+    left: -5%;
+}
+
+.faq-qrow .text-div {
+	margin-top: 20px;
+	margin-bottom: 100px;
+	padding-left: 0;
+}
+
+.faq-qrow .accordion > .card {
+	background: transparent;
+	padding: 30px 0;
+	border-radius: 0;
+    border-bottom: 1px solid #DCDBDB;
+    border-top: 0;
+    border-right: 0;
+    border-left: 0;
+}
+
+.faq-qrow .accordion > .card > .card-header {
+	background: 0;
+	border: 0;
+	padding: 0;
+}
+
+.faq-qrow h4.panel-title {
+	font-size: 1.75rem;
+	font-weight: 300;
+	margin-bottom: 0;
+}
+
+.faq-qrow h4.panel-title a {
+	border: 0;
+	background: 0;
+	display: block;
+}
+
+.faq-qrow .card-body {
+	margin-top: 20px;
+	padding: 0;
+}
+
+.faq-qrow h4.panel-title .dropdown-carat {
+	float: right;
+}
+
+.faq-qrow h4.panel-title .dropdown-carat svg.drop-tri {
+	width: 15px;
+	transition: all 0.3s ease;
+}
+
+.faq-qrow h4.panel-title a[aria-expanded="true"] .dropdown-carat svg.drop-tri {
+  transform: rotate(180deg);
+}
+
+
+/* ============== responsive ============== */
 
 @media only screen and (min-width: 1921px) { 
 	.img-zigzag svg.two-zigzag-svg { top: -135px;}
@@ -1230,6 +1291,7 @@ ul.contactmail li a {
 	.post-single .page-post img { margin: 20px auto;}
 	.page-post .content-column br {display: none;}
 	.custom-checkbox label input { width: 25%;}
+	.page-title { margin-top: 70px;}
 
 	.row-posts .post-preview,
 	.row-posts .post-preview:nth-of-type(2n),
