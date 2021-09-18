@@ -76,7 +76,7 @@ a:hover {
 }
 
 .title-div h2 {
-	font-size: 4rem;
+	font-size: 3rem;
 	text-transform: uppercase;
 }
 
@@ -495,7 +495,7 @@ a.nav-link:hover {
 
 .getintouch-div h2 {
 	text-transform: uppercase;
-	font-size: 6.3rem;
+	font-size: 6rem;
 	display: inline;
 }
 
@@ -652,7 +652,7 @@ a.nav-link:hover {
 
 .hero-img svg.triangles-birds-svg {
 	position: absolute;
-  	bottom: 5%;
+  	bottom: 0;
     width: 35%;
     right: 5%;
     z-index: -1;
@@ -708,7 +708,7 @@ a.nav-link:hover {
 	width: 20%;
     position: absolute;
     right: 0;
-    bottom: 0;
+    bottom: 10%;
 }
 
 .img-half-rainbow .half-rainbow-svg .cls-1,.cls-2{fill:none;stroke-linecap:round;stroke-miterlimit:10;}
@@ -954,12 +954,12 @@ a.nav-link:hover {
 
 
 .content-hero {
-	min-height: 90vh;
-	margin-top: 180px;
+	min-height: 70vh;
+	margin-top: 150px;
 }
 
 .content-hero h1 {
-	font-size: 7rem;	
+	font-size: 6rem;	
 }
 
 .content-hero h1 a {
@@ -967,7 +967,7 @@ a.nav-link:hover {
 }
 
 .front-row1 {
-	margin-top: 60px;
+	margin-top: 20px;
 	margin-bottom: 160px;
 }
 
@@ -988,7 +988,7 @@ a.nav-link:hover {
 }
 
 .services-breakdwn .serv-divul h3 {
-	font-size: 4rem;
+	font-size: 3rem;
 	font-weight: 300;
 }
 
@@ -1160,24 +1160,26 @@ ul.contactmail li a {
 
 @media only screen and (min-width: 1921px) { 
 	.img-zigzag svg.two-zigzag-svg { top: -135px;}
-	.content-hero { min-height: 90vh;}
+	.content-hero { min-height: 60vh;}
+	.hero-img svg.triangles-birds-svg { bottom: -5%; width: 30%;}
+	.img-half-rainbow svg.half-rainbow-svg { bottom: -55%;}
+	.img-triangles svg.triangles-birds-svg { width: 42%; left: 8%; bottom: -5%;}
 }
 
 @media only screen and (max-width: 1920px) { 
 	.img-zigzag svg.two-zigzag-svg { top: -115px;}
-	.content-hero { min-height: 90vh;}
+	.content-hero { min-height: 60vh;}
 }
 
 @media only screen and (max-width: 1440px) { 
 	.img-zigzag svg.two-zigzag-svg { top: -95px;}
-	.content-hero { min-height: 75vh;}
 }
 
 @media only screen and (max-width: 1025px) { 
-	.content-hero { min-height: 80vh;}
-	.hero-img svg.triangles-birds-svg { bottom: 0;}
+	.hero-img svg.triangles-birds-svg { bottom: 7%;}
+	.img-triangles svg.triangles-birds-svg { bottom: 24%;}
 	.contact3 .getintouch-div a { margin-left: 60px;}
-	.getintouch-div h2 { font-size: 6rem;}
+	.getintouch-div a { margin-left: 0;}
 
 }
 
@@ -1190,9 +1192,11 @@ ul.contactmail li a {
 	.getintouch-div a { margin-left: 0; margin-top: 20px;}
 	.contact3 .getintouch-div a { margin-left: 0;}
 
-	.content-hero { min-height: 70vh;}
+	.content-hero { min-height: 50vh;}
 	.content-hero h1 { font-size: 5.2rem;}
 	.front-row1 { margin-top: 20px;}
+	.img-half-rainbow svg.half-rainbow-svg { width: 25%;}
+	.img-triangles svg.triangles-birds-svg { bottom: 31%;}
 	.services-breakdwn .serv-divul h3 { font-size: 3rem;}	
 	.services-breakdwn { padding-top: 0px;}
 	.front-row4 .post-preview:nth-of-type(2n+1) { flex: 0 0 100%; max-width: 100%; margin-left: 0;}
@@ -1222,7 +1226,7 @@ ul.contactmail li a {
 	.footerlinks ul li { margin: 20px 0;}
 	.img-footerplant svg.plant-svg { width: 7%; bottom: -120px;}
 
-	.content-hero h1, .post-single .page-post h1 { font-size: 3.4rem; padding: 70px 0;}
+	/*.content-hero h1,*/ .post-single .page-post h1 { font-size: 3.4rem; padding: 70px 0;}
 	.post-single .page-post img { margin: 20px auto;}
 	.page-post .content-column br {display: none;}
 	.custom-checkbox label input { width: 25%;}
@@ -1243,7 +1247,7 @@ ul.contactmail li a {
 	.text-div { margin-top: 30px; padding-left: 0;}
 	.title-div h2 { font-size: 2.5rem;}
 	.contact2 .getintouch-div a { margin-left: 0; display: block;}
-	.post-single .page-post h1 { font-size: 3rem; padding: 40px 0;}
+	.post-single .page-post h1 { font-size: 2.8rem; padding: 40px 0;}
 
 	.content-hero { min-height: 35vh; margin-top: 150px;}
 	.content-hero h1 { font-size: 3.4rem;}
