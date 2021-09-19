@@ -1,12 +1,7 @@
 <head>
     <meta charset="utf-8">
+    {{ partial "meta" . }}
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="{{if .IsHome}}{{ $.Site.Params.description }}{{else}}{{.Description}}{{end}}" />
-    {{ if .Params.noindex }}
-    <meta name="robots" content="noindex" />
-    {{ else }}
-    <meta name="robots" content="index,follow">
-    {{ end }}
     
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -14,10 +9,6 @@
     
     <link rel="stylesheet" type="text/css" href="/css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="/css/style.css">
-    
-    {{ $title := print .Site.Title " | " .Title }}
-    {{ if .IsHome }}{{ $title = print .Site.Title " | Brand. Strategy. Community " }}{{ end }}
-    <title>{{ $title }}</title>
 
     <!-- favicon -->
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
