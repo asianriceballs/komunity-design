@@ -7,6 +7,8 @@ canonifyURLs = true
 
 
 [params]
+  languageCode = 'en-gb'
+  languageName = 'English'
   favicon = "favicon-32x32.png"
   site_logo = "logo.png"
   description = "Komunity Design is a creative and consulting agency that focuses on design thinking and design for social impact. We see design as an avenue for social change."
