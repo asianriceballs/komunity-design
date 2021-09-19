@@ -1,14 +1,15 @@
 baseURL = "https://komunity.design/"
 title = "Komunity Design"
 languageCode = "en-us"
+DefaultContentLanguage = "en"
 theme = "themekd"
 googleAnalytics = "G-DJZCW21407"
 canonifyURLs = true
 
 
 [params]
-  languageCode = 'en-gb'
-  languageName = 'English'
+  languageCode = "en-us"
+  languageName = "English"  
   favicon = "favicon-32x32.png"
   site_logo = "logo.png"
   description = "Komunity Design is a creative and consulting agency that focuses on design thinking and design for social impact. We see design as an avenue for social change."
