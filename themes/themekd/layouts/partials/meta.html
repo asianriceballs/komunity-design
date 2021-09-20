@@ -53,8 +53,6 @@
 {{/* Blog post tag */}}
 {{ if eq .Section "chronicles" }}
 <meta property="og:type" content="article" />
-<meta property="og:article:published_time" content={{ .Date.Format "2006-01-02T15:04:05Z0700" | safeHTML }} />
-<meta property="article:published_time" content={{ .Date.Format "2006-01-02T15:04:05Z0700" | safeHTML }} />
 
 {{ range .Params.categories }}
 <meta name="news_keywords" content="{{ index . }}" />
