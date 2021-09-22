@@ -85,11 +85,9 @@ Launching a campaign that mimicked virtue signaling from those who intend to be 
 
 # We hoped to understand the different positions people held on the COVID-19 vaccination.
 
-<br />
-<br />
-
-
 ![covid-19 inforgraph of people who will get vaccinated when offered](/images/posts/c19-info-vaccinate.jpg)
+
+![covid-19 poster ad campaign covid-19 vaccination](/images/posts/c19-poster-mock3.jpg)
 
 
 #### Distribution
@@ -106,8 +104,6 @@ The English version of the survey started collecting data from 11 March and the 
 
 Initial results from the English version of the survey contradicted the national statistics of those registered for the vaccination. We then initiated a Malay version of the survey to capture a wider audience. 
 
-
-![covid-19 poster ad campaign covid-19 vaccination](/images/posts/c19-poster-mock3.jpg)
 
 ![covid-19 inforgraph of people who are still willing to take the vaccine knowing the side effects](/images/posts/c19-info-despite-side-effects.jpg)
 
