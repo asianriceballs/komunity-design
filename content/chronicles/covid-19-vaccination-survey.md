@@ -7,7 +7,7 @@ categories:
 image: /images/posts/c19-vaccine-img.jpg
 heroimage: /images/posts/c19-fusion-medical-animation-unsplash.jpg
 featured: true
-description: "Survey results to uncover reasons people are hesitant towards COVID-19 Vaccine"
+description: "Survey to uncover reasons people are hesitant towards COVID-19 Vaccine"
 ---
 
 #### Motivation
@@ -19,9 +19,6 @@ In the past, vaccination acceptance has relied on the trust that people have in 
 As part of our efforts to reach out to the community, we created an [informal online survey](/https://vaccination.komunity.design/) on our website to try to uncover possible reasons people in our community are hesitant towards getting the COVID-19 Vaccine.
 
 This survey is part of our research to uncover possible reasons people in our community are hesitant towards getting the COVID-19 Vaccine. We were curious why the registration rates for the vaccination were relatively low in Malaysia. We hope that our findings can provide insight to individuals and caregivers to better communicate the importance of vaccination.
-
-<br />
-<br />
 
 ![covid-19 vaccination](/images/posts/c19-cdc-unsplash.jpg "Photo by CDC on Unsplash")
 
@@ -85,23 +82,14 @@ Launching a campaign that mimicked virtue signaling from those who intend to be 
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
-![covid-19 inforgraph of people who will get vaccinated when offered](/images/posts/c19-info-vaccinate.jpg)
-
-<br />
-<br />
-<br />
-<br />
-<br />
 
 # We hoped to understand the different positions people held on the COVID-19 vaccination.
+
+<br />
+<br />
+
+
+![covid-19 inforgraph of people who will get vaccinated when offered](/images/posts/c19-info-vaccinate.jpg)
 
 
 #### Distribution
