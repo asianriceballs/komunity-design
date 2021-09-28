@@ -1144,6 +1144,7 @@ ul.teamsocialli li {
 	display: inline-block;
 }
 
+ul.teamsocialli li a,
 ul.teamsocialli li a svg {
 	background: none;
 }
