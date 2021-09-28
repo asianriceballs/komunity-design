@@ -1161,21 +1161,25 @@ ul.teamsocialli li svg.soc-instagram {
 ul.teamsocialli li a:focus svg.soc-linkedin,
 ul.teamsocialli li a:hover svg.soc-linkedin {
 	fill: #0077B5;
+	background: none;
 }
 
 ul.teamsocialli li a:focus svg.soc-behance,
 ul.teamsocialli li a:hover svg.soc-behance {
 	fill: #053eff;
+	background: none;
 }
 
 ul.teamsocialli li a:focus svg.soc-instagram,
 ul.teamsocialli li a:hover svg.soc-instagram {
 	fill: #000000;
+	background: none;
 }
 
-ul.teamsocialli li a:focus svg.soc-instagram,
-ul.teamsocialli li a:hover svg.soc-instagram {
+ul.teamsocialli li a:focus svg.soc-piedpipr,
+ul.teamsocialli li a:hover svg.soc-piedpipr {
 	fill: #01977A;
+	background: none;
 }
 
 /* ====== contact page ====== */
