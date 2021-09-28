@@ -38,17 +38,24 @@
 <meta name="twitter:creator" content="{{ .Site.Params.twitter }}" />
 
 {{/* Image tag */}}
-{{ with .Params.image }} 
-  <meta itemprop="image" content="{{ . | absURL }}" />
-  <meta property="og:image" content="{{ . | absURL }}" /> 
-  <meta name="twitter:image" content="{{ . | absURL }}" />
-  <meta name="twitter:image:src" content="{{ . | absURL }}" /> 
+{{ if isset .Params "meta_image" }}
+    <meta property="og:image" content="{{ .Params.meta_image | absURL }}"/>
+    <meta name="twitter:image" content="{{ .Params.meta_image | absURL }}">
+    <link rel="image_src" href="{{ .Params.meta_image | absURL }}"/>
+    <meta itemprop="image" content="{{ .Params.meta_image | absURL }}">
+{{ else if (.Resources.ByType "image") | len }}
+    {{ $firstImage := index (.Resources.ByType "image") 0 }}
+    <meta property="og:image" content="{{ $firstImage.Permalink }}"/>
+    <meta name="twitter:image" content="{{ $firstImage.Permalink }}">
+    <link rel="image_src" href="{{ $firstImage.Permalink }}"/>
+    <meta itemprop="image" content="{{ $firstImage.Permalink }}">
 {{ else }}
-  <meta itemprop="image" content="{{ .Site.Params.ogimage | absURL }}" />
-  <meta property="og:image" content="{{ .Site.Params.ogimage | absURL }}" />
-  <meta name="twitter:image" content="{{ .Site.Params.ogimage | absURL }}" />
-  <meta name="twitter:image:src" content="{{ .Site.Params.ogimage | absURL }}" /> 
+    <meta itemprop="image" content="{{ .Site.Params.ogimage | absURL }}" />
+    <meta property="og:image" content="{{ .Site.Params.ogimage | absURL }}" />
+    <meta name="twitter:image" content="{{ .Site.Params.ogimage | absURL }}" />
+    <meta name="twitter:image:src" content="{{ .Site.Params.ogimage | absURL }}" /> 
 {{ end }}
+
 
 {{/* Blog post tag */}}
 {{ if eq .Section "chronicles" }}
