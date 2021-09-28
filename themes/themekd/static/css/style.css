@@ -1133,6 +1133,41 @@ a.nav-link:hover {
 .pyramid-img .triangle-pyramid-svg .cls-1,.cls-2{stroke-linecap:round;stroke-linejoin:round;}
 .pyramid-img .triangle-pyramid-svg .cls-2{fill:#dbdbda;stroke:#dbdbda;stroke-width:8px;}
 
+ul.teamsocialli {
+	margin: 0;
+	padding-left: 0;
+	display: inline-block;
+}
+
+ul.teamsocialli li {
+	margin-right: 15px;
+}
+
+ul.teamsocialli li svg {
+	width: 28px;
+	color: #DCDBDB;
+}
+
+ul.teamsocialli li a:focus svg.soc-linkedin,
+ul.teamsocialli li a:hover svg.soc-linkedin {
+	color: #0077B5;
+}
+
+ul.teamsocialli li a:focus svg.soc-behance,
+ul.teamsocialli li a:hover svg.soc-behance {
+	color: #053eff;
+}
+
+ul.teamsocialli li a:focus svg.soc-instagram,
+ul.teamsocialli li a:hover svg.soc-instagram {
+	color: #000000;
+}
+
+ul.teamsocialli li a:focus svg.soc-instagram,
+ul.teamsocialli li a:hover svg.soc-instagram {
+	color: #01977A;
+}
+
 /* ====== contact page ====== */
 
 ul.contactmail {
