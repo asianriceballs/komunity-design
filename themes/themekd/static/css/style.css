@@ -1141,31 +1141,41 @@ ul.teamsocialli {
 
 ul.teamsocialli li {
 	margin-right: 15px;
+	display: inline-block;
+}
+
+ul.teamsocialli li a svg {
+	background: none;
 }
 
 ul.teamsocialli li svg {
 	width: 28px;
-	color: #DCDBDB;
+	fill: #DCDBDB;
+}
+
+ul.teamsocialli li svg.soc-linkedin,
+ul.teamsocialli li svg.soc-instagram {
+	width: 23px;
 }
 
 ul.teamsocialli li a:focus svg.soc-linkedin,
 ul.teamsocialli li a:hover svg.soc-linkedin {
-	color: #0077B5;
+	fill: #0077B5;
 }
 
 ul.teamsocialli li a:focus svg.soc-behance,
 ul.teamsocialli li a:hover svg.soc-behance {
-	color: #053eff;
+	fill: #053eff;
 }
 
 ul.teamsocialli li a:focus svg.soc-instagram,
 ul.teamsocialli li a:hover svg.soc-instagram {
-	color: #000000;
+	fill: #000000;
 }
 
 ul.teamsocialli li a:focus svg.soc-instagram,
 ul.teamsocialli li a:hover svg.soc-instagram {
-	color: #01977A;
+	fill: #01977A;
 }
 
 /* ====== contact page ====== */
