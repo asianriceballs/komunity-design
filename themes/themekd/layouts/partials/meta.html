@@ -39,10 +39,10 @@
 
 {{/* Image tag */}}
 {{ with .Params.image }} 
-  <meta itemprop="heroimage" content="{{ . | absURL }}" />
-  <meta property="og:heroimage" content="{{ . | absURL }}" /> 
-  <meta name="twitter:heroimage" content="{{ . | absURL }}" />
-  <meta name="twitter:heroimage:src" content="{{ . | absURL }}" /> 
+  <meta itemprop="image" content="{{ . | absURL }}" />
+  <meta property="og:image" content="{{ . | absURL }}" /> 
+  <meta name="twitter:image" content="{{ . | absURL }}" />
+  <meta name="twitter:image:src" content="{{ . | absURL }}" /> 
 {{ else }}
   <meta itemprop="image" content="{{ .Site.Params.ogimage | absURL }}" />
   <meta property="og:image" content="{{ .Site.Params.ogimage | absURL }}" />
