@@ -4,8 +4,8 @@ date: {{ .Date }}
 draft: true
 tags: [""]
 categories:
-image: /images/posts/
 heroimage: /images/posts/
+image: /images/posts/
 featured: false
 description: ""
 ---
