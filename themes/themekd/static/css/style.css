@@ -729,6 +729,7 @@ a.nav-link:hover {
 
 .img-sun svg.sun-svg {
 	margin-top: -15%;
+	position: absolute;
 }
 
 .img-sun .sun-svg .cls-1{fill:#ffcc0d;}
@@ -1370,7 +1371,7 @@ ul.contactmail li a {
 	.img-frontbluwav { padding-top: 20px;}
 	.img-frontwhitewav svg.wave-white-svg { width: 25%; top: 35px;}
 	.img-zigzag svg.two-zigzag-svg { width: 30%; top: -40px;}
-	.img-sun svg.sun-svg { margin-top: 10px;}
+	.img-sun svg.sun-svg { margin-top: 10px; position: relative;}
 	.serv-div { padding-left: 0;}
 	.services-breakdwn { padding-left:0;}
 	.img-triangles svg.triangles-birds-svg { width: 90%; left: 0; bottom: 31%;}
