@@ -25,7 +25,7 @@
             <div class="row row-marg row-posts">
                 {{ range (.Site.GetPage "section" "chronicles").Pages }}
                 <div class="col-12 col-md-6 nopad post-preview">
-                    <div class="col-12 post-imgdiv">
+                    <div class="col-12 nopad post-imgdiv">
                         <a class="preview-img" href="{{ .Permalink }}">
                             <div class="col-12">
                                 <div class="ovrlyeffct"></div>
@@ -33,7 +33,7 @@
                             </div>
                         </a>
                     </div>
-                    <div class="col-12 post-txt-div">
+                    <div class="col-12 nopad post-txt-div">
                         <div class="col-12 tags-div">
                             {{ with .Params.tags }}
                                 {{ range . }}
