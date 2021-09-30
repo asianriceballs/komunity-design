@@ -201,10 +201,6 @@ a:hover {
   	z-index: 1;
 }
 
-.row-tax .post-txt-div {
-	padding-left: 30px;
-}
-
 .row-posts .post-preview:nth-of-type(2n) { 
 	flex: 0 0 41.666667%;
     max-width: 41.666667%;
