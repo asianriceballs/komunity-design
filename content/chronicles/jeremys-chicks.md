@@ -7,7 +7,7 @@ categories:
 heroimage: /images/posts/jc-children-hero.jpg
 image: /images/posts/jc-children.jpg
 featured: true
-description: "Website development for Jeremy’s Chicks delivery kitchen chicken rice in Kuala Lumpur"
+description: "Website design and development for Jeremy’s Chicks delivery cloud kitchen chicken rice in Kuala Lumpur"
 ---
 
 #### Background
@@ -16,15 +16,15 @@ Jeremy’s Chicks is a Malaysian delivery kitchen serving different flavors of c
 
 #### Challenge
 
-Since they lacked a physical restaurant, they reached out to us to develop a website that would tell their story and put a face behind their brand. 
+Since they lacked a physical restaurant, they reached out to us to develop and design a website that would tell their story and put a face behind their brand. 
 
-![jeremy's chicks macbook mockup](/images/posts/jc-mockup-macbook.gif)
+![jeremy's chicks macbook mockup](/images/posts/jc-komunity-design-website-design-mockup.gif)
 
 #### Development
 
 Based on information provided from the initial meeting we presented several design directions that we felt would resonate well with them. Unfortunately a change in leadership at Jeremy’s Chicks resulted in us remedying an unpublished website that they already possessed. 
 
-![jeremy's chicks front page](/images/posts/jc-JC2.jpg)
+![jeremy's chicks front page](/images/posts/jc-komunity-design-jeremys-chicks-website-design.jpg)
 
 The design direction that received some positive feedback was the direction where a typewriter font was chosen and graphical stamps were used throughout the website. The elements represented authenticity that was meant to reflect values of the brand that uses traditional recipes and fresh ingredients to make their dishes. 
 
@@ -34,7 +34,7 @@ Our work was limited to several key alterations to provide consistency and impro
 2. Hero web banner design 
 3. Order Now buttons upon hover for each order delivery platform to increase user-friendliness
 
-![jeremys chicks food delivery](/images/posts/jc-grab-driver.jpg)
+![jeremys chicks food delivery](/images/posts/jc-komunity-design-jeremys-chicks-grab-driver.jpg)
 
 #### Community
 
@@ -44,15 +44,15 @@ Another scheme had them show support for a [local food stall](/https://www.insta
 
 ||
 
-![jeremys chicks style](/images/posts/jc-style-01.jpg)
+![jeremys chicks style](/images/posts/jc-komunity-design-brand-style-jeremys-chicks.jpg)
 
 # As a show of appreciation, we are extending a meal on us.
 
-![jeremys chicks Chuan Kee Chicken Rice one of the best chicken rice stalls in Subang Jaya](/images/posts/jc-hawker-seller.jpg)
+![jeremys chicks Chuan Kee Chicken Rice one of the best chicken rice stalls in Subang Jaya](/images/posts/jc-komunity-design-jeremys-chicks-hawker-seller.jpg)
 
 **Update**
 
 As of June 2021 Jeremy's Chicks had a change in managment. The initiatives were not carried forward with the new team and there has been no further information or follow through for any of the initiatives. The impact to their selected beneficiaries in the past could not be accurately accessed. A more through needs analysis study could have been but in place to optimize the existing resources for maximum impact.
 
-![jeremys chicks Lighthouse Children Welfare Home Association](/images/posts/jc-children2.jpg)
+![jeremys chicks Lighthouse Children Welfare Home Association](/images/posts/jc-komunity-design-orphanage-community.jpg)
 

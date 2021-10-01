@@ -7,7 +7,7 @@ categories:
 heroimage: /images/posts/c19-fusion-medical-animation-unsplash.jpg
 image: /images/posts/c19-vaccine-img.jpg
 featured: true
-description: "Survey to uncover reasons people are hesitant towards COVID-19 Vaccine"
+description: "Survey to uncover reasons people are hesitant towards COVID-19 Vaccine with designa and development of posters and website for research"
 ---
 
 #### Motivation
@@ -49,7 +49,7 @@ This survey was conducted to uncover possible reasons people in our community ar
 In Malaysia, even though this positive result was not consistent with the registration rates published by the Jabatan Khas Jaminan Akses Bekalan COVID-19 (JKJAV) as of April 2020, it did not affect the data collected about the reasons for those who are hesitant to take the vaccine.
 
 
-![covid-19 inforgraph of people who believe that the vaccines were developed too quickly](/images/posts/c19-info-covid-vaccine.jpg)
+![covid-19 inforgraph design of people who believe that the vaccines were developed too quickly](/images/posts/c19-komunity-design-info-covid-vaccine.jpg)
 
 
 **Institutional mistrust**
@@ -73,11 +73,11 @@ Since we had richer data on participants willing to receive the vaccine, we felt
 
 Launching a campaign that mimicked virtue signaling from those who intend to be vaccinated might entice those who are hesitant to vaccinate to change their minds at a later date.
 
-![covid-19 poster ad campaign covid-19 vaccination](/images/posts/c19-poster-mock1.jpg)
+![covid-19 poster design ad campaign covid-19 vaccination](/images/posts/c19-komunity-design-poster-vaccinate-mask.jpg)
 
 ||
 
-![covid-19 illustration](/images/posts/c19-covid-large.jpg)
+![covid-19 illustration](/images/posts/c19-komunity-design-research-covid-large.jpg)
 
 <br />
 <br />
@@ -85,9 +85,9 @@ Launching a campaign that mimicked virtue signaling from those who intend to be 
 
 # We hoped to understand the different positions people held on the COVID-19 vaccination.
 
-![covid-19 inforgraph of people who will get vaccinated when offered](/images/posts/c19-info-vaccinate.jpg)
+![covid-19 inforgraph design of people who will get vaccinated when offered](/images/posts/c19-komunity-design-info-vaccinate-uptake.jpg)
 
-![covid-19 poster ad campaign covid-19 vaccination](/images/posts/c19-poster-mock3.jpg)
+![covid-19 poster design ad campaign covid-19 vaccination save the world](/images/posts/c19-komunity-design-poster-vaccinate-save-world.jpg)
 
 
 #### Distribution
@@ -105,13 +105,13 @@ The English version of the survey started collecting data from 11 March and the 
 Initial results from the English version of the survey contradicted the national statistics of those registered for the vaccination. We then initiated a Malay version of the survey to capture a wider audience. 
 
 
-![covid-19 inforgraph of people who are still willing to take the vaccine knowing the side effects](/images/posts/c19-info-despite-side-effects.jpg)
+![covid-19 inforgraph design of people who are still willing to take the vaccine knowing the side effects](/images/posts/c19-komunity-design-info-covid-despite-side-effects.jpg)
 
-![covid-19 poster ad campaign covid-19 vaccination](/images/posts/c19-poster-mock2.jpg)
+![covid-19 poster ad campaign covid-19 vaccination](/images/posts/c19-komunity-design-poster-vaccinate-children.jpg)
 
 For a full report [contact us](/contact). 
 
-![covid-19 poster ad campaign covid-19 vaccination](/images/posts/c19-poster-mock4.jpg)
+![covid-19 poster design ad campaign covid-19 vaccination](/images/posts/c19-komunity-design-poster-side-effects-covid.jpg)
 
 
 
