@@ -4,7 +4,7 @@ date: 2021-07-24T15:59:13+08:00
 draft: false
 tags: ["design","website", "community"]
 categories:
-heroimage: /images/posts/jc-children-hero.jpg
+heroimage: /images/posts/jc-komunity-design-jeremys-chicks-children-hero.jpg
 image: /images/posts/jc-children.jpg
 featured: true
 description: "Website design and development for Jeremy’s Chicks delivery cloud kitchen chicken rice in Kuala Lumpur"
