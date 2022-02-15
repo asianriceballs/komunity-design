@@ -34,6 +34,8 @@ Our work was limited to several key alterations to provide consistency and impro
 2. Hero web banner design 
 3. Order Now buttons upon hover for each order delivery platform to increase user-friendliness
 
+The website was developed and designed with “sustainable” software in mind. The code was optimized and compressied to reduce the load time of the website, in turn requiring less energy output and a faster loading time. 
+
 ![jeremys chicks food delivery](/images/posts/jc-komunity-design-jeremys-chicks-grab-driver.jpg)
 
 #### Community
