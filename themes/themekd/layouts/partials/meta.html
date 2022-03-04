@@ -9,7 +9,7 @@
 
 {{/*  Title */}}
 {{ $title := print .Site.Title " | " .Title }}
-{{ if .IsHome }}{{ $title = print .Site.Title " | Brand. Strategy. Community " }}{{ end }}
+{{ if .IsHome }}{{ $title = print .Site.Title " | Brand. Strategy. Community. " }}{{ end }}
 <title itemprop="name">{{ $title }}</title>
 <meta property="og:title" content="{{ $title }}" />
 <meta name="twitter:title" content="{{ $title }}" />
